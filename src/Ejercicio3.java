@@ -13,6 +13,5 @@ public class Ejercicio3 {
 		System.out.println("El numero "+num1 +"es mayor que " + num2);
 	}else {
 		System.out.println("El numero " +num2 +" es mayor que " +num1);
-	}}
+	}}	
 }
- 
